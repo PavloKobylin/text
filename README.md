@@ -1,7 +1,9 @@
 ***
-# ***  Название сайта ***
+# Сайт компании Rhytm
 
 # Системные требования к сайту
-- Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+- ***Процессор***  - 2,6ГГц
+- ОЗУ - 4Гб
+
+### Cсылка на сайт
+<https://github.com/PavloKobylin/text>
